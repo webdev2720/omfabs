@@ -1,5 +1,5 @@
 /*
-Template Name:OM FABS
+Template Name:Om Fabs
 File: Layout CSS
 Author: Templates On Web
 Author URI: http://templateonweb.com/
@@ -11,7 +11,7 @@ padding-top:60px;
 padding-bottom:40px;  
   }
 .center_shop_2l h5 i{
- color:#f47629;
+ color:#ec763b;
  margin-right:5px;
  font-size:16px; 
   }
@@ -73,7 +73,7 @@ margin-top:30px;
 }
 /* Indicators active image style */
 .article-slide .carousel-indicators .active img {
-    border: 2px solid #f47629;
+    border: 2px solid #ec763b;
     opacity: 0.7;
 }
 
@@ -96,7 +96,7 @@ margin-top:30px;
 	margin-right:20px;
 }
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
-    color: #f47629;
+    color: #ec763b;
     font-weight: bold;
 }
 .center_shop_2ri ul li a{
@@ -104,7 +104,7 @@ margin-top:30px;
  font-weight:bold;
   }
 .center_shop_2ri ul li a:hover{
- color:#f47629;
+ color:#ec763b;
   background:none;
   }
 .click {
@@ -119,7 +119,7 @@ margin-top:30px;
     color: #666;
 }
 blockquote{
-border-color:#f47629;
+border-color:#ec763b;
 margin-top:20px;
 margin-bottom:0;
  }

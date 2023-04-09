@@ -1,5 +1,5 @@
 /*
-Template Name:OM FABS
+Template Name:Om Fabs
 File: Layout CSS
 Author: Templates On Web
 Author URI: http://templateonweb.com/
@@ -37,7 +37,7 @@ color:#eee;
 margin-top:-46px; 
  }
 .request_1 h4{
- background:#f47629;
+ background:#ec763b;
  color:#fff;
  width:30%;
  text-align:center;
@@ -123,13 +123,13 @@ width:120px;
 height:120px; 
 line-height:115px;
 font-size:80px;
-color:#f47629;
+color:#ec763b;
 text-align:center;
 display:inline-block;
 border-radius:50%;
  }
 .serv_home_1i span:hover{
-background:#f47629;
+background:#ec763b;
 color:#fff; 
  }
 /*********************serv_home_end****************/
@@ -194,7 +194,7 @@ vertical-align:middle;
 .plan_1ii1 ul li i{
 margin-right:5px;
 font-size:14px;
-color:#f47629; 
+color:#ec763b; 
  }
 .plan_1ii1 ul li {
 margin-bottom:10px;
@@ -239,7 +239,7 @@ color:#666;
  padding-bottom:40px;
  }
 .trend_1ir{
- border-top:4px solid #f47629;
+ border-top:4px solid #ec763b;
  padding:20px;
  background:#f4f4f4;
  }
