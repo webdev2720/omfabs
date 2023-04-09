@@ -1,5 +1,5 @@
 /*
-Template Name:Electronica
+Template Name:Om Fabs
 File: Layout CSS
 Author: Templates On Web
 Author URI: http://templateonweb.com/
@@ -75,7 +75,7 @@ padding:0;
    width:100%;
    }
 .button{
-background:#f47629;
+background:#ec763b;
 display:inline-block;
 color:#fff;
 padding:15px 20px 15px 20px!important;
@@ -88,13 +88,13 @@ border:1px solid;
  }
 .button:hover{
 background:#fff;
-color:#f47629;
+color:#ec763b;
   }
   
 .button_1{
 background:#fff;
 display:inline-block;
-color:#f47629;
+color:#ec763b;
 padding:15px 20px 15px 20px!important;
 margin-top:10px;
 border-radius:5px;
@@ -104,7 +104,7 @@ border:1px solid;
  margin-right:5px;
  }
 .button_1:hover{
-background:#f47629;
+background:#ec763b;
 color:#fff;
   }
 
@@ -133,13 +133,13 @@ color:#fff;
 color:#fff;  
   }
 .col_1{
-color:#f47629;
+color:#ec763b;
   }
 /*********************top****************/
 #top{
 padding-top:20px;
 padding-bottom:40px;
-background:#3d404d;
+background:#2f4462;
  }
 .top_1l p i{
 margin-right:10px; 
@@ -179,29 +179,30 @@ color:#fff;
  top:-25px;
  }
 .navbar{
-background:#252936; 
+background:#28374d; 
 width:70%;
 margin-left:auto;
 margin-right:auto;
+border-radius: 4px;
  }
 .font_tag{
  color:#ddd;
  text-transform:uppercase;
  font-size:15px;
- border-right:1px solid #51586d;
+ border-right:1px solid #576388;
  }
 .font_tag:hover{
 color:#fff;
-background:#51586d!important;
+background:#576388!important;
 color:#fff; 
  }
 .font_tag:focus{
 color:#fff;
-background:#51586d!important;
+background:#576388!important;
 color:#fff; 
  }
 .active_tab{
-background:#51586d;
+background:#576388;
 color:#fff; 
  }
 .navbar-brand{
@@ -220,7 +221,7 @@ border-radius:0;
  }
 .drop_1 li a:hover{
  background:none;
- color:#f47629;
+ color:#ec763b;
  }
 .drop_1 li a{
 border-bottom:1px solid #ddd;
@@ -247,7 +248,7 @@ padding-left:0;
  }
 .footer_2i1 hr{
 width:40%; 
-border-color:#f47629;
+border-color:#ec763b;
 margin-left:0;
 border-width:3px;
  }
@@ -255,7 +256,7 @@ border-width:3px;
  margin-bottom:8px;
  }
 .footer_2i1 ul li a:hover{
-color:#f47629;
+color:#ec763b;
  }
 .footer_3r ul li{
 display:inline-block;
@@ -265,10 +266,10 @@ margin-right:5px;
 color:#fff;
  }
 .footer_3r ul li a:hover{
-color:#f47629;
+color:#ec763b;
  }
 .footer_3l p a{
-color:#f47629;
+color:#ec763b;
  }
 .footer_3l p a:hover{
 color:#fff;

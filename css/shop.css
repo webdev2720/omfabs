@@ -1,5 +1,5 @@
 /*
-Template Name:Electronica
+Template Name:Om Fabs
 File: Layout CSS
 Author: Templates On Web
 Author URI: http://templateonweb.com/
@@ -11,7 +11,7 @@ padding-top:60px;
 padding-bottom:20px;  
   }
 .center_shop_2l h5 i{
- color:#f47629;
+ color:#ec763b;
  margin-right:5px;
  font-size:16px; 
   }
@@ -76,14 +76,14 @@ margin-top:30px;
 color:#333; 
  }
 .center_product_1r4r ul li a:hover{
-background: #f47629;
+background: #ec763b;
 color:#fff;
-border-color:#f47629;
+border-color:#ec763b;
  }
 .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
-background: #f47629;
+background: #ec763b;
 color:#fff;
-border-color:#f47629;
+border-color:#ec763b;
  }
 .center_product_1r4r{
 margin-top:30px; 
